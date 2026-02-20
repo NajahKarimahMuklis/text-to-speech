@@ -105,7 +105,7 @@ const App = () => {
 
   return (
     <div className="title">
-      <div className="h-auto lg:h-screen overflow-auto lg:overflow-hidden bg-gradient-to-br from-slate-50 via-cyan-50/30 to-teal-50 dark:from-slate-950 dark:via-cyan-950/20 dark:to-teal-950 transition-all duration-700 flex items-center justify-center p-4 sm:p-6 lg:p-8 relative">
+      <div className="min-h-screen lg:min-h-screen overflow-auto lg:overflow-hidden bg-gradient-to-br from-slate-50 via-cyan-50/30 to-teal-50 dark:from-slate-950 dark:via-cyan-950/20 dark:to-teal-950 transition-all duration-700 flex items-center justify-center p-4 sm:p-6 lg:p-8 relative">
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div className="absolute top-0 left-1/4 w-96 h-96 bg-teal-300/15 dark:bg-teal-400/8 rounded-full blur-3xl animate-float"></div>
           <div className="absolute bottom-0 right-1/4 w-80 h-80 bg-cyan-300/15 dark:bg-cyan-400/8 rounded-full blur-3xl animate-float-delayed"></div>
