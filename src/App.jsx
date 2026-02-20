@@ -132,7 +132,7 @@ const App = () => {
                   </span>
                 </h1>
                 <p className="text-slate-500 dark:text-slate-300 text-sm font-light tracking-wide mt-1">
-                  A simple text to speech website
+                  Convert your text into a voice!
                 </p>
               </div>
             </div>
