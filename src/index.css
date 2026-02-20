@@ -1,0 +1,9 @@
+@import url("https://use.typekit.net/ueb4nun.css");
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+
+.title {
+  font-family: "poppins", sans-serif;
+}
